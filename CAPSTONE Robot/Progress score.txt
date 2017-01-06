@@ -1,0 +1,31 @@
+Final
+
+Maze 1: 23.23; 186-17 . Best: 17 
+Maze 2: 40.83; 234-33 . Best: 28
+Maze 3: 45.767; 292-36. Best: 33
+
+Created: 30.233; 216-23
+
+Initial just to the goal
+Maze 1: 44.067; 31-43
+Maze 2: 48.93; 57-47
+Maze 3: 49.53; 75-47
+
+Initial and go back 
+Maze 1: 29.333; 99-26
+Maze 2: 48.33; 129-44
+Maze 3: 47.233; 156-42
+
+One Point Exploration
+Maze 1: 32.567; 136-28. 
+Maze 2: 50.43; 192-44. 
+Maze 3: 40.3; 248-32. 
+
+Two Points Exploration
+Maze 1: 23.233; 186-17. 
+Maze 2: 40.73; 231-33. 
+Maze 3: 45.567; 286-36. 
+
+
+
+

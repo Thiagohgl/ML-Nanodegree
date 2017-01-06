@@ -1,0 +1,22 @@
+Up = 1
+Right = 2
+Down = 4
+Left = 8
+
+Up right = 3
+Up down = 5
+Up left = 9
+
+Right down = 6
+Right left = 10
+
+Left down = 12
+
+Up right left = 11
+Up right down = 7
+Up left down = 13
+
+Right left down = 14
+
+
+

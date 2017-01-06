@@ -1,0 +1,23 @@
+Decision tree:
++ Deals with non linear separable data, specially with a lot of parameters
++ Easy to understand
+- Overfit
++ Can be used in an emsemble
+
+SVM
++ Nice separation even with non linear spaces
+- Very sensitive to noise (School system, however, not so much noise)
+- Probel with large data base (school not large)
+
+KNN
++ Similar points, similar properties
++ Can easily adapt to new data
++ Easy to explain
+- Dimensonality problem (not so much features)
+
+
+SVM 0.001,0.001,0.001
+
+Forest 0.007,0.008,0.007
+
+KNN 0.002,0.003,0.003
